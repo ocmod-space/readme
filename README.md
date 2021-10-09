@@ -1,1 +1,4 @@
-# license
+# Licenses
+
+Commonly used licenses
+
