@@ -1,4 +1,0 @@
-# Licenses
-
-Commonly used licenses
-
